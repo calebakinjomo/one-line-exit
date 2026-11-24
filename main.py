@@ -2,6 +2,9 @@
 
 The program writes the entry line to /output/entry.txt (the path the
 make.fun program/v1 harness grades) and prints exactly the same line.
+
+The joke lands by treating a corporate "we are family" slogan as a
+literal household to flee — a resignation framed as running away from home.
 """
 
 import os
